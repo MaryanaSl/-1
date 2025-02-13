@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="29522e2d-e920-4815-9de1-266b75a2fa85">
+  <name>Настройки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Настройки</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Constant.ВестиРасчетЗарплаты</content>
+  <content>CommonCommand.НастройкаПрограммы</content>
+  <content>Catalog.Сотрудники</content>
+  <content>Catalog.Контрагенты</content>
+  <content>CommonForm.НастройкаПрограммы</content>
+</mdclass:Subsystem>
